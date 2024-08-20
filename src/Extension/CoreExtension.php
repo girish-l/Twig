@@ -81,7 +81,8 @@ final class CoreExtension extends AbstractExtension
 
     /**
      * Defines a new escaper to be used via the escape filter.
-     *
+     * Change the format here.
+     * 
      * @param string   $strategy The strategy name that should be used as a strategy in the escape call
      * @param callable $callable A valid PHP callable
      *
